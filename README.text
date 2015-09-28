@@ -1,6 +1,14 @@
 install 
 
+nodeJs v0.12
+bower
 python 2.7
 Django 1.8
 django-tinymce
 pillow
+
+Dentro del proyecto ejecutar:
+
+cd integraTuSalud
+##instala las dependencias para el uso de librerias externas
+bower install  
